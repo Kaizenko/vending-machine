@@ -17,6 +17,7 @@ bin/
 .settings
 .springBeans
 .sts4-cache
+*.launch
 
 ### IntelliJ IDEA ###
 .idea
