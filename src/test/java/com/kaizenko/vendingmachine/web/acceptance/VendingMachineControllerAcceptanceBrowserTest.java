@@ -15,7 +15,7 @@ import io.cucumber.junit.CucumberOptions;
 @CucumberOptions(strict=true, monochrome = true, plugin = {"pretty", "html:target/site/cucumber-pretty", "json:target/cucumber.json"},
 			features = "src/test/resources/features/")
 @ActiveProfiles("test")
-public class VendingMachineControllerAcceptanceTest {
+public class VendingMachineControllerAcceptanceBrowserTest {
 
 	
 }
